@@ -1,0 +1,17 @@
+{
+  "name": "electron-ander",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ander",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^18.0.1"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
